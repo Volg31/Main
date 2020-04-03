@@ -3,7 +3,7 @@ package KpOP;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class main1 {
+class   main1 {
     public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
