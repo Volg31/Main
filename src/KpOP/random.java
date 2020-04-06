@@ -2,16 +2,16 @@ package KpOP;
 
 public class random {
     public static void main(String[] args) {
-        int z = (int) (Math.random() * 282);
-        if (z >= 141)
-            System.out.println(z);
+        int x = (int) (Math.random() * 282);
+        if (x >= 141)
+            System.out.println(x);
         else {
-            System.out.println("До сложения="+z);
-            z += 10;
-            System.out.println("После="+z);
+            System.out.println("До сложения="+x);
+            x += 10;
+            System.out.println("После="+x);
         }
         {
-            if (z % 10 == 2)
+            if (x % 10 == 2)
                 System.out.println("Тебе повезло");
         }
 
