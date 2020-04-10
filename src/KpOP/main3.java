@@ -1,5 +1,4 @@
 package KpOP;
-
 import java.util.Scanner;
 
 public class main3 {
